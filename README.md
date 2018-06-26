@@ -1,4 +1,7 @@
 # VtigerDynamicRebranding
+NOTE: this project is currently on hold. All the files should be the same as the original vtiger
+install files.
+
 Project to modify Vtiger so users can rebrand the crm after install 
 using a user interface.
 
